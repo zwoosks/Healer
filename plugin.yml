@@ -1,0 +1,7 @@
+name: HealMe
+main: me.zwoosks.healer.healMe
+version: 1.0
+commands:
+   healplayer:
+      description: Heal players.
+      usage: /<command>
